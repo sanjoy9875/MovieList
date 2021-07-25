@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">MovieApp</string>
+
+    <string name="movies">Movies</string>
+    <string name="now_showing">Now Showing</string>
+    <string name="book_now">BOOK NOW</string>
+    <string name="synopsis">Synopsis</string>
+
+</resources>
