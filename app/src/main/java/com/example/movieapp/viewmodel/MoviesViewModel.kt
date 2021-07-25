@@ -9,7 +9,7 @@ import kotlinx.coroutines.Dispatchers
 
 class MoviesViewModel() : ViewModel() {
 
-    val repository = MoviesRepository()
+    private val repository = MoviesRepository()
 
     fun getMovies() : LiveData<List<MoviesModel>>{
 
